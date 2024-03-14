@@ -1,0 +1,43 @@
+form {
+    background-color: rgb(121, 121, 121);
+    border-radius: 25px;
+    box-shadow: 30px 30px, 30px 30px;
+}
+
+body {
+    background-color: rgb(65, 65, 65);
+}
+
+#title {
+    font-size: 3em;
+}
+
+#text {
+    font-size: 1.5em;
+    margin: 10px;
+}
+
+#passlength {
+    width: 420px;
+    text-align: center;
+    padding: 5px 10px;
+    font-size: 1.5em;
+}
+
+#passlabel {
+    font-size: 2em;
+}
+
+#error {
+    margin: 20px;
+    padding: 30px 30px;
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(62, 158, 62);
+}
